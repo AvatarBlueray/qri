@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\iaiaoee\Desktop\qri\example1\standOutExample\build\intermediates\exploded-aar\example1\standOut\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9b880ebfcd65f1abf688c28fdb571b4b1b2063b">
+        <dex dex="C:\Users\iaiaoee\Desktop\qri\example1\standOutExample\build\intermediates\pre-dexed\release\classes-170da2e018bf8577307dd6ba4032e3ef21509945.jar" />
+    </item>
+
+</items>
